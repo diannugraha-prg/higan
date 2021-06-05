@@ -1,3 +1,3 @@
-# higan
+# whipplefilter
 
 Hello, noob here
